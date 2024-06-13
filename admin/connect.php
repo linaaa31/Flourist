@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect('localhost','root','root','lina_final');
+$db = mysqli_connect('localhost','root','','lina_final');
 
 
 if(!$db){

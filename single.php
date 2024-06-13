@@ -58,7 +58,7 @@ include('header.php');
                 <h2 class="h2-text">Something to add:</h2>
                 <input class="input-text" type="text">
                 <br>
-                <button class="single-button" id="addToOrder">Add to Order</button>
+                <button onclick="location.href='order.php';" class="single-button" id="addToOrder">Add to Order</button>
             </div>
             </div>
           </div>
@@ -66,5 +66,6 @@ include('header.php');
          <?php
 include('footer.php');
 ?>
+
 </body>
 </html>

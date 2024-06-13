@@ -1,6 +1,6 @@
  <header>
         <div class="brand-logo">
-            <a href="about.html"><img src="images/logo.png" width="100%"></a>
+            <a href="about.php"><img src="images/logo.png" width="100%"></a>
         </div>
         <nav>
             <ul class="top-menu">
